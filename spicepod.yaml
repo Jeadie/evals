@@ -4,7 +4,7 @@ kind: Spicepod
 
 # These spicepod datasets are generated from 'spicepod-local.yml'. Specifically
 # ```shell
-# sed 's|^-\ from: file:|-\ from: https://github.com/Jeadie/evals/raw/refs/heads/main/|' spicepod-local.yml > spicepod.yml
+# sed 's|^-\ from: file:|-\ from: https://github.com/Jeadie/evals/raw/refs/heads/main/|' spicepod-local.yml > spicepod.yaml
 # ```
 datasets:
 - from: https://github.com/Jeadie/evals/raw/refs/heads/main/evals/registry/data/actors-sequence/samples.jsonl
